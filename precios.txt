@@ -1,0 +1,7 @@
+palito,700
+(1)bocha,1200
+(2)bocha,1400
+(3)bocha,1600
+(1/4)kilo,4500
+(1/2)kilo,6500
+(1)kilo,8500
